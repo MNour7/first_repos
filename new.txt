@@ -1,2 +1,4 @@
 mon nouveau fichier texte pour le test
 je modifie depuis github
+
+mais aussi depuis ma machine locale, c'ets vraiment hein !
